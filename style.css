@@ -108,3 +108,19 @@ body{
     color: #f0eaee;
     border-radius: 12px;
 }
+.main-section3 {
+   
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 350px;
+    width: 0 auto;
+}
+.main-section3 .images{
+    display: flex;
+
+}
+.main-section3 .images img{
+    height: 200px;
+    width: 150px;
+}
